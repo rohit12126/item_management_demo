@@ -39,5 +39,9 @@ open command propt go to directory item_management_demo/item-management-vue then
 
 second command will give you a link to open in browser.
 
+In item_management_demo/item-management-vue/src/HelloWorld line no. 79
+const APIURL = "http://localhost/item_management_demo/item_management_api/";
+Paste right link of api project to correct work api
+
 
 
