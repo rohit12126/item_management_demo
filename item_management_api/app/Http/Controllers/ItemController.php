@@ -4,7 +4,19 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Item as ItemModel;
-
+/**
+* ItemManagementPage ItemController Controller class file
+* PHP Version 7
+*
+* @category Controllers
+*
+* @package Controllers
+*
+* @author Rohit Agrawal<rohita.chapter247@gmail.com>
+*
+*
+* @link NA
+*/
 class ItemController extends Controller
 {
     public function addUpdateItem(Request $req)

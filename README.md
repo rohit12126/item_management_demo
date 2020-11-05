@@ -30,6 +30,9 @@ then open http://localhost/item_management_demo/item_management_api/
 Now setup frontend item_management_demo/item-management-vue have this code.
 To run you must have install vue in your computer. If don't have install it from https://cli.vuejs.org/guide/installation.html link.
 
+Node NPM also required to run this.
+Follow this https://www.npmjs.com/get-npm link for install 
+
 open command propt go to directory item_management_demo/item-management-vue then run command 
 1. "npm update"
 2. "npm run serve"
